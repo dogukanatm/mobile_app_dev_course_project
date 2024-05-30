@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-// ignore: unused_import
 import '../models/category.dart';
-// ignore: unused_import
 import '../services/api_service.dart';
 
 class CategoryProvider with ChangeNotifier {
@@ -15,7 +13,16 @@ class CategoryProvider with ChangeNotifier {
     _isLoading = true;
     notifyListeners();
 
-    _categories = await ApiService().fetchCategories();
+    try {
+      List<Category>? fetchedCategories = await ApiService().fetchCategories();
+      if (fetchedCategories != null) {
+        _categories = fetchedCategories;
+      } else {
+        throw Exception('Fetched categories is null');
+      }
+    } catch (error) {
+      print("Failed to fetch categories: $error");
+    }
 
     _isLoading = false;
     notifyListeners();
@@ -23,11 +30,30 @@ class CategoryProvider with ChangeNotifier {
 }
 
 class Category {
-  String? get name => null;
+  final String name;
+  final int id;
 
-  get id => null;
+  Category({required this.id, required this.name});
+
+  factory Category.fromJson(Map<String, dynamic> json) {
+    return Category(
+      id: json['id'],
+      name: json['name'],
+    );
+  }
 }
 
 class ApiService {
-  fetchCategories() {}
+  // Dummy implementation for demonstration purposes.
+  Future<List<Category>> fetchCategories() async {
+    // Simulating API call delay with Future.delayed
+    await Future.delayed(Duration(seconds: 2));
+
+    // Returning dummy list of categories
+    return [
+      Category(id: 1, name: 'Category 1'),
+      Category(id: 2, name: 'Category 2'),
+      Category(id: 3, name: 'Category 3'),
+    ];
+  }
 }
