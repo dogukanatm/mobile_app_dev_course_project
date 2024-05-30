@@ -1,0 +1,23 @@
+name: mobile_application_development_course_project
+description: A new Flutter project for the Mobile Application Development course.
+
+# Versiyon bilgisi
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Http ve provider paketlerini ekleyin
+  http: ^0.13.3
+  provider: ^6.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
