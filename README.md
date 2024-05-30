@@ -1,6 +1,7 @@
 # mobile_app_dev_course_project
 Mobile Application Development final project
 
+
 # Mobil Uygulama Geliştirme Dersi Projesi
 
 Bu proje, 2024 Bahar dönemindeki Mobil Uygulama Geliştirme dersi için bir proje olarak geliştirilmiştir.
@@ -116,3 +117,10 @@ flutter run
 - **Course:** Mobile Application Development
 - **Project Author:** [Your Name](https://github.com/your-dogukanatm)
 - **Instructor:** [Fehim KÖYLÜ](https://bm.erciyes.edu.tr/fehim)
+
+
+
+
+
+
+
