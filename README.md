@@ -115,8 +115,8 @@ flutter run
 - **University:** Erciyes University
 - **Department:** Computer Engineering
 - **Course:** Mobile Application Development
-- **Project Author:** [Your Name](https://github.com/your-dogukanatm)
-- **Instructor:** [Fehim KÖYLÜ](https://bm.erciyes.edu.tr/fehim)
+- **Project Author:** [https://github.com/your-dogukanatm]
+- **Instructor:** [Fehim KÖYLÜ]https://[bm.erciyes.edu.tr/fehim]
 
 
 
