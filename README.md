@@ -56,8 +56,8 @@ flutter run
 - [Üniversite Adı](Erciyes Üniversitesi )
 - [Bölüm Adı](Bilgisayar Mühendisliği )
 - [Ders Adı](Mobile Application Development )
-- [Adım](https://github.com/your-dogukanatm)
-- [Öğretim Görevlisi Adı](: https://bm.erciyes.edu.tr/fehim)-
+- [Adım] (https://github.com/your-dogukanatm)-
+- [Öğretim Görevlisi Adı] (: https://bm.erciyes.edu.tr/fehim)-
 
 
 
@@ -115,7 +115,7 @@ flutter run
 - **University:** Erciyes University
 - **Department:** Computer Engineering
 - **Course:** Mobile Application Development
-- **Project Author:** [https://github.com/your-dogukanatm]
+- **Project Author:** [Doğukan ATMACA] [https://github.com/your-dogukanatm]
 - **Instructor:** [Fehim KÖYLÜ] [https://bm.erciyes.edu.tr/fehim]
 
 
