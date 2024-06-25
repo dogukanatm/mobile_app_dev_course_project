@@ -1,6 +1,10 @@
 # mobile_app_dev_course_project
 Mobile Application Development final project
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 92270354aac56a585bb9e0a1e3576c1fc96ff1ed
 # Mobil Uygulama Geliştirme Dersi Projesi
 
 Bu proje, 2024 Bahar dönemindeki Mobil Uygulama Geliştirme dersi için bir proje olarak geliştirilmiştir.
@@ -55,8 +59,13 @@ flutter run
 - [Üniversite Adı](Erciyes Üniversitesi )
 - [Bölüm Adı](Bilgisayar Mühendisliği )
 - [Ders Adı](Mobile Application Development )
+<<<<<<< HEAD
 - [Adım](https://github.com/your-dogukanatm)
 - [Öğretim Görevlisi Adı](: https://bm.erciyes.edu.tr/fehim)-
+=======
+- [Doğukan Atmaca] (https://github.com/your-dogukanatm)-
+- [ Dr. Öğr. Üyesi Fehim KÖYLÜ] (: https://bm.erciyes.edu.tr/fehim)-
+>>>>>>> 92270354aac56a585bb9e0a1e3576c1fc96ff1ed
 
 
 
@@ -114,8 +123,13 @@ flutter run
 - **University:** Erciyes University
 - **Department:** Computer Engineering
 - **Course:** Mobile Application Development
+<<<<<<< HEAD
 - **Project Author:** [Your Name](https://github.com/your-dogukanatm)
 - **Instructor:** [Fehim KÖYLÜ](https://bm.erciyes.edu.tr/fehim)
+=======
+- **Project Author:** [Doğukan ATMACA] [https://github.com/your-dogukanatm]
+- **Instructor:** [ Dr. Öğr. Üyesi Fehim KÖYLÜ] [https://bm.erciyes.edu.tr/fehim]
+>>>>>>> 92270354aac56a585bb9e0a1e3576c1fc96ff1ed
 
 
 
