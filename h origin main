@@ -1,0 +1,97 @@
+[33mcommit 3c7bf43b539efa369163d717ed26c49b1100e48d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 6b55a6a 9227035
+Author: dogukanatm <dogukanatmaca38@gmail.com>
+Date:   Tue Jun 25 22:53:18 2024 +0300
+
+    Çakışmaları çözüldü, birleştirme işlemi tamamlandı
+
+[33mcommit 6b55a6a30ed546d78427d6b6a850c2783a35ff86[m
+Author: dogukanatm <dogukanatmaca38@gmail.com>
+Date:   Tue Jun 25 22:42:39 2024 +0300
+
+    düzeltildi
+
+[33mcommit 92270354aac56a585bb9e0a1e3576c1fc96ff1ed[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Doğukan Atmaca <145132384+dogukanatm@users.noreply.github.com>
+Date:   Fri May 31 02:59:36 2024 +0300
+
+    Update README.md
+
+[33mcommit b932b511e75a88ea82348f11d0a38a1740b2f927[m
+Author: Doğukan Atmaca <145132384+dogukanatm@users.noreply.github.com>
+Date:   Fri May 31 02:58:16 2024 +0300
+
+    Update README.md
+
+[33mcommit e074c548249e42f161366e5677406f11e938b1c8[m
+Author: Doğukan Atmaca <145132384+dogukanatm@users.noreply.github.com>
+Date:   Fri May 31 02:55:54 2024 +0300
+
+    Update README.md
+
+[33mcommit d99595f2ad844c53f897f1191eb82fef0a1d44c3[m
+Author: Doğukan Atmaca <145132384+dogukanatm@users.noreply.github.com>
+Date:   Fri May 31 02:54:24 2024 +0300
+
+    Update README.md
+
+[33mcommit a9942f5c780fa87bf5e7cdd1b0a165faddf5f49b[m
+Author: Doğukan Atmaca <145132384+dogukanatm@users.noreply.github.com>
+Date:   Fri May 31 02:52:29 2024 +0300
+
+    Update README.md
+
+[33mcommit 3fd160e75f4abde76365b6c401dab5dd58d98586[m
+Author: Doğukan Atmaca <145132384+dogukanatm@users.noreply.github.com>
+Date:   Fri May 31 02:50:51 2024 +0300
+
+    Update category_provider.dart
+
+[33mcommit 81e2cba8506dfa380811bd525d020e1e921eaf15[m
+Author: Doğukan Atmaca <145132384+dogukanatm@users.noreply.github.com>
+Date:   Fri May 31 02:50:20 2024 +0300
+
+    Update api_service.dart
+
+[33mcommit 3f57179b1f39c594475cd8fc72240e56dd54cde4[m
+Author: Doğukan Atmaca <145132384+dogukanatm@users.noreply.github.com>
+Date:   Fri May 31 02:49:52 2024 +0300
+
+    Update category.dart
+
+[33mcommit 9297884f7cdbc2813bbb115defb7e3f64f05f6d4[m
+Author: Doğukan Atmaca <145132384+dogukanatm@users.noreply.github.com>
+Date:   Fri May 31 02:14:57 2024 +0300
+
+    Update README.md
+
+[33mcommit 7ab41b1822283fda4b7cc4b880d5e03c1bd4de46[m
+Merge: effeb53 6d7b6f5
+Author: dogukanatm <dogukanatmaca38@gmail.com>
+Date:   Fri May 31 01:39:40 2024 +0300
+
+    Merge branch 'main' of https://github.com/dogukanatm/mobile_app_dev_course_project
+
+[33mcommit effeb53212f93264b589af24d28beabae40f9a07[m
+Author: dogukanatm <dogukanatmaca38@gmail.com>
+Date:   Fri May 31 01:37:40 2024 +0300
+
+    Initial commit
+
+[33mcommit 6d7b6f587197f777da7b383c54153e65646683c8[m
+Author: Doğukan Atmaca <145132384+dogukanatm@users.noreply.github.com>
+Date:   Thu May 30 18:41:04 2024 +0300
+
+    Delete FlutterRepo
+
+[33mcommit baa96f3a6cee055ee4624237abba4c581fda0912[m
+Author: Doğukan Atmaca <145132384+dogukanatm@users.noreply.github.com>
+Date:   Thu May 30 18:39:37 2024 +0300
+
+    Create FlutterRepo
+
+[33mcommit 1a59382dffce85616691462d223a4e7761edfb3f[m
+Author: Doğukan Atmaca <145132384+dogukanatm@users.noreply.github.com>
+Date:   Thu May 30 18:24:50 2024 +0300
+
+    Initial commit
