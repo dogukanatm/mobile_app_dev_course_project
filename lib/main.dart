@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mobile_application_development_course_project/lib/providers/category_provider.dart';
-import 'package:mobile_application_development_course_project/lib/screens/home_screen.dart';
 import 'package:provider/provider.dart';
-// ignore: unused_import
+import 'providers/category_provider.dart';
 import 'screens/home_screen.dart';
 
 void main() {
@@ -15,7 +13,7 @@ class MyApp extends StatelessWidget {
     return ChangeNotifierProvider(
       create: (context) => CategoryProvider()..fetchCategories(),
       child: MaterialApp(
-        title: 'Mobile Application Development Course Project',
+        title: 'Flutter Demo',
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
